@@ -1,1 +1,16 @@
-name="CordCutter Build v1.0" version="1.0.0" url="YOUR_ZIP_URL_HERE" minor="http://" gui="http://" kodi="21.0" theme="http://" icon="https://raw.githubusercontent.com/FrugalITDad/CordCutter/main/icon.png" fanart="https://raw.githubusercontent.com/FrugalITDad/CordCutter/main/fanart.jpg" preview="http://" adult="no" info="http://" description="My custom CordCutter build for Kodi 21."
+section="--- STANDARD BUILDS ---"
+name="CordCutter Base" version="1.0.0" url="URL_TO_BASE_ZIP" kodi="21.3" icon="https://raw.githubusercontent.com/FrugalITDad/CutCable/main/repository.frugalitdad/icon.png" fanart="https://raw.githubusercontent.com/FrugalITDad/CutCable/main/repository.frugalitdad/fanart.jpg" description="Verified Services Addons. Clean and stable."
+
+name="CordCutter Plus" version="1.0.0" url="URL_TO_PLUS_ZIP" kodi="21.3" icon="https://raw.githubusercontent.com/FrugalITDad/CutCable/main/repository.frugalitdad/icon.png" fanart="https://raw.githubusercontent.com/FrugalITDad/CutCable/main/repository.frugalitdad/fanart.jpg" description="Base plus third party addons for extra content."
+
+name="CordCutter Pro" version="1.0.0" url="URL_TO_PRO_ZIP" kodi="21.3" icon="https://raw.githubusercontent.com/FrugalITDad/CutCable/main/repository.frugalitdad/icon.png" fanart="https://raw.githubusercontent.com/FrugalITDad/CutCable/main/repository.frugalitdad/fanart.jpg" description="The full experience: Plus features with Jellyfin integration."
+
+section="--- GAMING BUILDS ---"
+name="CordCutter Base Gaming" version="1.0.0" url="URL_TO_BASEGAME_ZIP" kodi="21.3" icon="https://raw.githubusercontent.com/FrugalITDad/CutCable/main/repository.frugalitdad/icon.png" fanart="https://raw.githubusercontent.com/FrugalITDad/CutCable/main/repository.frugalitdad/fanart.jpg" description="Verified Services plus gaming setup."
+
+name="CordCutter Plus Gaming" version="1.0.0" url="URL_TO_PLUSGAME_ZIP" kodi="21.3" icon="https://raw.githubusercontent.com/FrugalITDad/CutCable/main/repository.frugalitdad/icon.png" fanart="https://raw.githubusercontent.com/FrugalITDad/CutCable/main/repository.frugalitdad/fanart.jpg" description="Third party addons plus gaming setup."
+
+name="CordCutter Pro Gaming" version="1.0.0" url="URL_TO_PROGAME_ZIP" kodi="21.3" icon="https://raw.githubusercontent.com/FrugalITDad/CutCable/main/repository.frugalitdad/icon.png" fanart="https://raw.githubusercontent.com/FrugalITDad/CutCable/main/repository.frugalitdad/fanart.jpg" description="The ultimate build: Pro features with gaming."
+
+section="--- MAINTENANCE ---"
+name="CordCutter Admin" version="1.0.0" url="URL_TO_ADMIN_ZIP" kodi="21.3" icon="https://raw.githubusercontent.com/FrugalITDad/CutCable/main/repository.frugalitdad/icon.png" fanart="https://raw.githubusercontent.com/FrugalITDad/CutCable/main/repository.frugalitdad/fanart.jpg" description="Internal build for admin use only."
